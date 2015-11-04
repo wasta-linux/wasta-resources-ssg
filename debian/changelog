@@ -1,0 +1,11 @@
+wasta-resources-ssg (1.0.0) trusty; urgency=medium
+
+  * initial github commit
+
+ -- Rik Shaw <rikshaw76@gmail.com>  Wed, 04 Nov 2015 12:03:24 +0300
+
+wasta-resources-ssg (0.1.0) precise; urgency=low
+
+  * initial release
+
+ -- Rik Shaw <rikshaw76@gmail.com>  Fri, 09 May 2014 11:57:06 -0500
